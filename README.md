@@ -36,16 +36,45 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+<img width="950" height="555" alt="Screenshot 2025-10-15 093930" src="https://github.com/user-attachments/assets/ae28b22e-013e-4ee6-8af9-9b296bacb1f4" />
 
-Bridge rectifier with filter:
+<img width="951" height="600" alt="Screenshot 2025-10-30 203246" src="https://github.com/user-attachments/assets/9b236291-770e-4750-8114-0d12ae5676a0" />
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+<img width="721" height="528" alt="Screenshot 2025-10-18 075430" src="https://github.com/user-attachments/assets/e7992a5a-f957-4739-b21a-85a65596f579" />
+
+<img width="894" height="715" alt="Screenshot 2025-10-18 081234" src="https://github.com/user-attachments/assets/793e3074-ab17-46c1-8cae-f9fd5c50c4c7" />
+
+<img width="606" height="950" alt="Screenshot 2025-10-30 143639" src="https://github.com/user-attachments/assets/8d28dee5-de9d-405f-a5c4-3e92cd1e8c87" />
+
+<img width="613" height="944" alt="Screenshot 2025-10-30 143649" src="https://github.com/user-attachments/assets/f38e9362-8c26-4fce-bb01-0c75b0c87fe0" />
+
+<img width="638" height="929" alt="Screenshot 2025-10-30 143657" src="https://github.com/user-attachments/assets/8af3cc10-02fd-4864-bc03-60d505988656" />
+
+<img width="610" height="941" alt="Screenshot 2025-10-30 143730" src="https://github.com/user-attachments/assets/f27774a4-cd92-4332-87af-23037e2cc78f" />
+
+<img width="616" height="951" alt="Screenshot 2025-10-30 143742" src="https://github.com/user-attachments/assets/deb6d0da-9e65-45aa-9257-c90b86107637" />
+
+<img width="1682" height="377" alt="Screenshot 2025-10-30 143753" src="https://github.com/user-attachments/assets/d993aa56-bc3a-4516-9bbb-e4576262ecf5" />
+
+
+
+
+
+
+
+
+
 
 WAVEFORM:
+
+<img width="1432" height="928" alt="Screenshot 2025-10-15 093907" src="https://github.com/user-attachments/assets/751e3314-8dac-4973-92e5-3d960a8a0d42" />
+
+<img width="1566" height="942" alt="Screenshot 2025-10-18 075325" src="https://github.com/user-attachments/assets/d50a5f98-7284-4ea9-a445-cc42598ce37f" />
+
+<img width="1496" height="924" alt="Screenshot 2025-10-18 080519" src="https://github.com/user-attachments/assets/ef88046f-3d0d-46b7-a3a9-8e3ed876d5b7" />
+
+
+
 
 
 RESULT:
